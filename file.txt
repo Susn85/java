@@ -1,0 +1,8 @@
+first topic:
+1.Thread 
+today java class by abhishek sir
+method : run(),sleep()
+Q1.what is Thread?
+ans:thread is independent unit of work.
+thread is dispachable unit of work.
+thread is a light weight process.
