@@ -30,7 +30,7 @@ class A extends Thread {
    System.out.println("Exit from C");
    }
  }
- public class Myclass {
+ public class myClass {
    public static void main(String args[]) {
    A threadA = new A();
    B threadB = new B();
