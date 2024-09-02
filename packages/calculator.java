@@ -1,5 +1,6 @@
-package calculator;
-   class calculator {
+package calculator ;
+  public  class calculator
+    {
    public static void main(String[] args) {
       
    }
@@ -48,4 +49,4 @@ package calculator;
                                                                 return (a/b);
                                                                    
                                                                      }
-                                                                     }
+                                                                     } 
