@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UserDefinedException",
+            "request": "launch",
+            "mainClass": "UserDefinedException",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "Examples1",
+            "request": "launch",
+            "mainClass": "Examples1",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "ThrowExamples",
+            "request": "launch",
+            "mainClass": "ThrowExamples",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "calculator.demo.demo",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "cal.demo.test",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "calculator.demo",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionDemo",
+            "request": "launch",
+            "mainClass": "ExceptionDemo",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "Statesinfo",
+            "request": "launch",
+            "mainClass": "com.tcs.Statesinfo",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "multipleCatch",
+            "request": "launch",
+            "mainClass": "multipleCatch",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "myClass",
+            "request": "launch",
+            "mainClass": "myClass",
+            "projectName": "java_4e446f04"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "packages.calculator",
+            "projectName": "java_4e446f04"
+        }
+    ]
+}
